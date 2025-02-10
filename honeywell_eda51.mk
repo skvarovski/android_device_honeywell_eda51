@@ -10,7 +10,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit device configuration
 $(call inherit-product, device/honeywell/eda51/device.mk)
 
-PRODUCT_NAME := Honeywell
+PRODUCT_NAME := honeywell_eda51
 PRODUCT_DEVICE := EDA51
 PRODUCT_BRAND := Honeywell
 PRODUCT_MANUFACTURER := Honeywell

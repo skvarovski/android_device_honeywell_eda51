@@ -25,4 +25,4 @@ $(call inherit-product-if-exists, frameworks/native/build/phone-hdpi-dalvik-heap
 
 # Recovery
 PRODUCT_COPY_FILES += \
-    device/xiaomi/rosy/zImage-dtb:kernel
+    device/honeywell/eda51/zImage-dtb:kernel
