@@ -1,0 +1,2 @@
+add_lunch_combo honeywell_eda51-userdebug
+add_lunch_combo honeywell_eda51-eng
